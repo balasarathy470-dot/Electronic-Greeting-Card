@@ -66,10 +66,5 @@ Ensure the card opens and closes easily.
 
 &nbsp;
 
-![][image1]
-
-&nbsp;
-
-&nbsp;
 
 
